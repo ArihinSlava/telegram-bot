@@ -33,6 +33,8 @@ public class NotificationTaskTimer {
                             "Напоминае:" + notificationTask.getMessage()));
             notificationTaskRepository.delete(notificationTask);
         });
+
+
     }
 
 }
