@@ -20,3 +20,4 @@ public interface NotificationTaskRepository extends JpaRepository<NotificationTa
     void removeAllLike(@Param("nameLike") String nameLike);
 
 }
+

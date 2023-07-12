@@ -48,4 +48,5 @@ public class NotificationTask {
     public void setNotificationDateTime(LocalDateTime notificationDateTime) {
         this.notificationDateTime = notificationDateTime;
     }
+
 }

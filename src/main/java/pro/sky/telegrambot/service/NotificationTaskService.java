@@ -17,4 +17,5 @@ public class NotificationTaskService {
     public void save(NotificationTask notificationTask) {
         notificationTaskRepository.save(notificationTask);
     }
+
 }

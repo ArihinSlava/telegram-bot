@@ -5,3 +5,4 @@ CREATE TABLE notification_tasks
     chat_id                 BIGINT NOT NULL,
     notification_data_time TIMESTAMP NOT NULL
 );
+
